@@ -15,4 +15,4 @@ WorldDB is an Apache Derby database. To access and use it locally:
 ## Don't want to download files or configure your system to see how this program works?
 
 Here's a screenshot of the GUI:
-<img src="worldDB_demo_img1.png" alt="Demo screenshot of world database GUI" width="700"/>
+<img src="worldDB_demo_img1.PNG" alt="Demo screenshot of world database GUI" width="600"/>
