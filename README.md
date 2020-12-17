@@ -1,6 +1,6 @@
 # world_database_gui_java
 
-This Java program creates a clean, visually appealing JavaFX GUI to retrieve and display data from a sample database of world facts (WorldDB). Implements multi-threading to create/execute SQL queries and update visual control elements in the main JavaFX application when certain click events are triggered. Multi-threading is implemented via nested/inner classes, Task<V>, and Runnable interfaces.
+This Java program creates a clean, visually appealing JavaFX GUI to retrieve and display data from a sample database of world facts (WorldDB). Implements multi-threading to create/execute SQL queries and update visual control elements in the main JavaFX application when certain click events are triggered. Multi-threading is implemented via nested/inner classes, Task<V>, and Runnable interfaces. Event handlers are implemented using lambda expressions.
   
 **Disclaimer:** WorldDB is a relational database containing sample info that may not be 100% accurate. It is used only for demonstration purposes to show how the JavaFX GUI interacts with a database, and should NOT be used as a real factual reference.
 
