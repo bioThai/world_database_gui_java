@@ -4,7 +4,7 @@ This Java program creates a clean, visually appealing JavaFX GUI to access and d
   
 **Disclaimer:** WorldDB is a relational database containing sample world facts info that may not be 100% accurate. It is used only for demonstration purposes to show how the JavaFX GUI interacts with a database, and should NOT be used as a real factual reference.
 
-## Program/project notes:
+## Other program/project notes:
 
 This Java program was created on **Eclipse IDE** using **JDK 1.8.0_271**.
 
