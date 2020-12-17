@@ -15,6 +15,6 @@ WorldDB is an Apache Derby database. To access and use it locally:
 ## Don't want to download files or configure your system to see how this program works?
 
 Here's a screenshot of the application:<br>
-<img src="worldDB_demo_img1.PNG" alt="Demo screenshot of world database GUI" width="600"/>
+<img src="worldDB_demo_img1.PNG" alt="Demo screenshot of world database GUI" width="700"/>
 
 When the user clicks on a radio button, the ListView control is updated with the corresponding list of city names, country names, or languages. The user can then select an item from the list. To display specific facts about the chosen list item, the user can click on one or more checkboxes and then click the "Show Facts" button. Selected facts will then display in the TextArea control.
